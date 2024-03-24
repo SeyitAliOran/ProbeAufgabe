@@ -1,6 +1,6 @@
-package beQualified.test.utilities;
+package com.beQualified.utilities;
 
-import beQualified.test.base.BaseClass;
+import com.beQualified.base.BaseClass;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;

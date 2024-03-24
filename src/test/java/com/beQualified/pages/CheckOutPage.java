@@ -1,6 +1,6 @@
-package beQualified.test.pages;
+package com.beQualified.pages;
 
-import beQualified.test.utilities.ConfigurationReader;
+import com.beQualified.utilities.ConfigurationReader;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.options.AriaRole;
 

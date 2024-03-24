@@ -1,4 +1,4 @@
-package beQualified.test.base;
+package com.beQualified.base;
 
 import com.microsoft.playwright.*;
 

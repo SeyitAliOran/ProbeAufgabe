@@ -1,10 +1,10 @@
-package beQualified.test.tests;
+package com.beQualified.tests;
 
-import beQualified.test.pages.CartPage;
-import beQualified.test.pages.CheckOutPage;
-import beQualified.test.pages.LoginPage;
-import beQualified.test.pages.ProductPage;
-import beQualified.test.utilities.Hooks;
+import com.beQualified.pages.CartPage;
+import com.beQualified.pages.CheckOutPage;
+import com.beQualified.pages.LoginPage;
+import com.beQualified.pages.ProductPage;
+import com.beQualified.utilities.Hooks;
 import org.testng.annotations.Test;
 
 public class End2EndTest extends Hooks {

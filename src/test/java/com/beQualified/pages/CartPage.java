@@ -1,4 +1,4 @@
-package beQualified.test.pages;
+package com.beQualified.pages;
 
 import com.microsoft.playwright.Page;
 
