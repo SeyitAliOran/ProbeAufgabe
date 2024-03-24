@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Um mit diesem Framework arbeiten zu können, benötigen Sie die folgende Software auf Ihrem System.<br>• Java 8 or later<br>• Maven 3 or later<br>• Chrome <br>•Playwright 1.41.0 <br>•Testng 7.9.0<br> <br>
+<p align="left">Um mit diesem Framework arbeiten zu können, benötigen Sie die folgende Software auf Ihrem System.<br>• Java 8 or later<br>• Maven 3 or later<br>• Chrome <br>• Playwright 1.41.0 <br>• Testng 7.9.0<br> <br>
 
 ###
 
